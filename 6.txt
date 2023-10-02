@@ -1,1 +1,1 @@
-hello, 6
+Learning the git for 6
